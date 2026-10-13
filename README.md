@@ -68,21 +68,10 @@ I care about clean, testable code, reliable systems, and turning ML research int
 
 ### 🧩 Featured Work
 
-> _Replace the descriptions below with your real projects and metrics._
-
 - 🤖 **LLM-Powered Agentic Workflow Platform**: Built Python/FastAPI services orchestrating LLM tool-calling agents, with prompt versioning, evaluation harnesses, and guardrails for reliable automation. *(Python, FastAPI, LLM APIs, Redis)*
 - 🔎 **Retrieval-Augmented Generation (RAG) System**: Designed document ingestion, chunking, embedding, and hybrid vector search pipelines that ground LLM answers in private enterprise data. *(Python, Vector DB, LangChain, PostgreSQL)*
 - 📈 **ML Model Training & Serving Pipeline**: Productionized models end-to-end with experiment tracking, automated retraining, containerized inference APIs, and drift/latency monitoring. *(PyTorch, scikit-learn, MLflow, Docker, AWS)*
 - ⚡ **High-Throughput Data Processing Backend**: Engineered async Python pipelines to ingest, validate, and normalize large streams of data for downstream analytics and ML features. *(Python, Celery, Kafka, PostgreSQL)*
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=saqlaindev512&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqlaindev512&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
 
 ---
 
